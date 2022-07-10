@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[Link](https://github.com/face-guild/faceguild.github.io/blob/gh-pages/Bosses)
+[Bosses](https://github.com/face-guild/faceguild.github.io/blob/gh-pages/Bosses)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
